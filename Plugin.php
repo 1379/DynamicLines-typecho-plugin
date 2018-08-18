@@ -78,7 +78,7 @@ class DynamicLines_Plugin implements Typecho_Plugin_Interface
     public static function footer()
     {
         $options = Typecho_Widget::widget('Widget_Options')->plugin('DynamicLines');
-        echo '<script type="text/javascript" color="' . $options->color . '" opacity="' . $options->opacity . '" zIndex="' . $options->zIndex . '"count="' . $options->count . '" src="usr/plugins/DynamicLines/canvas-nest.js"></script>';
+        echo '<script type="text/javascript" color="' . $options->color . '" opacity="' . $options->opacity . '" zIndex="' . $options->zIndex . '"count="' . $options->count . '" src="/usr/plugins/DynamicLines/canvas-nest.js"></script>';
     }
 
 }
