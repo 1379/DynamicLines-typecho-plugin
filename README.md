@@ -26,7 +26,7 @@
 **注意：下载下来后请将文件夹重命名为DynamicLines**
 ## GitHub地址 ##
 [Github地址(所有更新都将发布在github)][6]
-**求求你们了，给我个star吧** ::twemoji:tongue:: 
+欢迎star哦
 ## 源代码展示 ##
 ![代码截图][7]
 ## 更新日志 ##
