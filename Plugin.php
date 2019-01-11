@@ -4,8 +4,8 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * 有丰富自定义选项的动态聚合线条特效插件
  *
  * @package DynamicLines
- * @author 长江
- * @link http://www.changjiangblog.top
+ * @author Mario
+ * @link https://www.changjiangblog.top
  * @version 1.0.0
  */
 class DynamicLines_Plugin implements Typecho_Plugin_Interface
