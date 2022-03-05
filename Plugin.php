@@ -12,6 +12,7 @@ class DynamicLines_Plugin implements Typecho_Plugin_Interface
 {
     /**
      * 激活插件方法,如果激活失败,直接抛出异常
+     * 注意，直接抛出异常
      *
      * @access public
      * @return void
